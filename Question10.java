@@ -1,4 +1,4 @@
-package org.example;
+package OOPCA2;
 
 public class Question10 {
     public static void display(int[][] image) {
