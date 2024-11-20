@@ -1,8 +1,8 @@
 package OOPCA2;
 
 /**
- *  Your Name:
- *  Class Group:
+ *  Your Name: Harris Teh Kai Ze
+ *  Class Group: SD2B
  */
 public class Question1 {    // Interfaces
     public static void main(String[] args) {
