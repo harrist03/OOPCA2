@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ContainerManager {
     public ArrayList<IMeasurableContainer> containers = new ArrayList<IMeasurableContainer>();
 
-    public void addContainer(IMeasurableContainer container) {
+    public void add(IMeasurableContainer container) {
         containers.add(container);
     }
 
