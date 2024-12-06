@@ -16,7 +16,7 @@ public class Question2 // Car Parking - Stack
         Stack<Integer> street = new Stack<>();
         while (true) {
             try {
-                System.out.println("Enter car number plate (0 to stop): ");
+                System.out.println("Enter car number (+num to add, -num to remove, 0 to stop): ");
                 carNum = sc.nextInt();
 
                 // handle add cars to driveway
