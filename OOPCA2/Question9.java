@@ -18,6 +18,8 @@ public class Question9 {
         System.out.println("Please enter equation");
         equation = in.nextLine().trim();
         System.out.println("Answer to " + equation + " is " + evaluateExpression(equation));
+
+        in.close();
     }
 
     public static int evaluateExpression(String equation) {
